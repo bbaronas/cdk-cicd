@@ -4,7 +4,7 @@
 
 const handler = async (event: any, context: any) => {
     return {
-        statusCode:400,
+        statusCode:200,
         body: 'Hello!'
     }
 };
